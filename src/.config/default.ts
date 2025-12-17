@@ -31,7 +31,7 @@ export const defaultConfig: ThemeConfig = {
         href: '/categories',
       },
       {
-        name: 'About',
+        name: '关于我',
         href: '/about',
       },
     ],
